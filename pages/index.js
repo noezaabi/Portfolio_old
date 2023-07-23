@@ -20,7 +20,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="h1"
+            className="h1 text-3xl sm:text-5xl"
           >
             Bridging Physics, Tech, <br /> and{" "}
             <span className="text-accent/100">Business Innovation</span>
@@ -31,7 +31,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
+            className="max-w-sm text-base sm:text-lg xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
             I am a Physics undergraduate with a passion for technology and
             entrepreneurship. My academic journey has equipped me with a unique
